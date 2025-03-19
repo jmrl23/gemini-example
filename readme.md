@@ -1,3 +1,3 @@
-# ts
+# gimini example
 
-Basic TypeScript environment setup for making small to big projects
+Basic usage of gemini API with structured response 
